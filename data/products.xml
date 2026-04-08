@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="products.xsl"?>
+<shop>
+    <name>Flower Lover</name>
+    <location>Минск, Беларусь</location>
+    <products>
+        <product id="1">
+            <name>Эхеверия</name>
+            <price>25.00</price>
+            <currency>BYR</currency>
+            <image>assets/images/echeveria.svg</image>
+            <description>Эхеверия - изящный суккулент с мясистыми листьями, образующими розетку. Отлично подходит для создания миниатюрных садов.</description>
+            <care>Умеренный полив 1 раз в 10 дней, яркое освещение, температура 18-25°C</care>
+            <suitable_for>
+                <zodiac>Телец, Дева</zodiac>
+                <lifestyle>Любители минимализма, занятые люди</lifestyle>
+            </suitable_for>
+            <category>rosette</category>
+        </product>
+        <product id="2">
+            <name>Хавортия</name>
+            <price>18.00</price>
+            <currency>BYR</currency>
+            <image>assets/images/haworthia.svg</image>
+            <description>Хавортия - компактный суккулент с мясистыми листьями в форме звезды. Неприхотлив и идеален для начинающих цветоводов.</description>
+            <care>Полив 1 раз в 14 дней, полутень, температура 15-25°C</care>
+            <suitable_for>
+                <zodiac>Рак, Скорпион</zodiac>
+                <lifestyle>Новички в цветоводстве, люди с ограниченным временем</lifestyle>
+            </suitable_for>
+            <category>succulent</category>
+        </product>
+        <product id="3">
+            <name>Алоэ Вера</name>
+            <price>35.00</price>
+            <currency>BYR</currency>
+            <image>assets/images/aloe.svg</image>
+            <description>Алоэ Вера - лечебный суккулент с целебным гелем внутри листьев. Пользуется популярностью за полезные свойства и простоту ухода.</description>
+            <care>Полив 1 раз в 14-20 дней, яркий свет, температура 20-30°C</care>
+            <suitable_for>
+                <zodiac>Лев, Стрелец</zodiac>
+                <lifestyle>Ценители здоровья, любители комнатных растений</lifestyle>
+            </suitable_for>
+            <category>medicinal</category>
+        </product>
+        <product id="4">
+            <name>Эониум</name>
+            <price>28.00</price>
+            <currency>BYR</currency>
+            <image>assets/images/aeonium.svg</image>
+            <description>Эониум - эффектный суккулент с плоскими розетками на длинных стеблях. Создает атмосферу средиземноморского сада.</description>
+            <care>Полив 1 раз в 10 дней, яркое освещение, температура 18-25°C</care>
+            <suitable_for>
+                <zodiac>Весы, Водолей</zodiac>
+                <lifestyle>Творческие натуры, коллекционеры растений</lifestyle>
+            </suitable_for>
+            <category>rosette</category>
+        </product>
+        <product id="5">
+            <name>Крассула (Денежное дерево)</name>
+            <price>45.00</price>
+            <currency>BYR</currency>
+            <image>assets/images/crassula.svg</image>
+            <description>Крассула или Денежное дерево - популярный суккулент с толстыми округлыми листьями. Символизирует удачу и процветание.</description>
+            <care>Полив 1 раз в 14 дней, яркий свет, температура 18-25°C</care>
+            <suitable_for>
+                <zodiac>Козерог, Овен</zodiac>
+                <lifestyle>Бизнесмены, люди стремящиеся к успеху</lifestyle>
+            </suitable_for>
+            <category>tree</category>
+        </product>
+        <product id="6">
+            <name>Седум (Очиток)</name>
+            <price>15.00</price>
+            <currency>BYR</currency>
+            <image>assets/images/sedum.svg</image>
+            <description>Седум - разнообразный род суккулентов с мясистыми листьями. Отлично подходит для подвесных кашпо и рокариев.</description>
+            <care>Полив 1 раз в 10-12 дней, яркое освещение, температура 15-25°C</care>
+            <suitable_for>
+                <zodiac>Близнецы, Весы</zodiac>
+                <lifestyle>Любители экспериментов, садоводы</lifestyle>
+            </suitable_for>
+            <category>groundcover</category>
+        </product>
+        <product id="7">
+            <name>Каланхоэ</name>
+            <price>22.00</price>
+            <currency>BYR</currency>
+            <image>assets/images/kalanchoe.svg</image>
+            <description>Каланхоэ - цветущий суккулент с яркими соцветиями. Порадует цветением в зимние месяцы.</description>
+            <care>Полив 1 раз в 10 дней, яркий свет, температура 18-25°C</care>
+            <suitable_for>
+                <zodiac>Рыбы, Рак</zodiac>
+                <lifestyle>Любители цветущих растений, романтики</lifestyle>
+            </suitable_for>
+            <category>flowering</category>
+        </product>
+        <product id="8">
+            <name>Эчеверия Дребберги</name>
+            <price>32.00</price>
+            <currency>BYR</currency>
+            <image>assets/images/echeveria-d.svg</image>
+            <description>Эчеверия Дребберги - изящный сорт с розовыми кончиками листьев. Создает ощущение нежности и воздушности.</description>
+            <care>Умеренный полив, яркое освещение, температура 18-25°C</care>
+            <suitable_for>
+                <zodiac>Телец, Весы</zodiac>
+                <lifestyle>Эстеты, любители нежных растений</lifestyle>
+            </suitable_for>
+            <category>rosette</category>
+        </product>
+    </products>
+    <care_tips>
+        <tip id="1">
+            <title>Полив</title>
+            <content>Поливайте суккуленты только после полного высыхания почвы. Летом - раз в 7-14 дней, зимой - раз в 20-30 дней.</content>
+        </tip>
+        <tip id="2">
+            <title>Освещение</title>
+            <content>Большинство суккулентов любят яркий рассеянный свет. Избегайте прямых солнечных лучей летом.</content>
+        </tip>
+        <tip id="3">
+            <title>Почва</title>
+            <content>Используйте специальный грунт для суккулентов с хорошим дренажем. Добавьте песок или перлит.</content>
+        </tip>
+        <tip id="4">
+            <title>Температура</title>
+            <content>Оптимальная температура 18-25°C. Зимой допустимо понижение до 10-15°C.</content>
+        </tip>
+    </care_tips>
+</shop>
